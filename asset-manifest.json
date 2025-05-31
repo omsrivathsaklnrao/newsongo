@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsongo/static/css/main.e6c13ad2.css",
+    "main.js": "/newsongo/static/js/main.14d5c54d.js",
+    "static/js/453.912cc188.chunk.js": "/newsongo/static/js/453.912cc188.chunk.js",
+    "index.html": "/newsongo/index.html",
+    "main.e6c13ad2.css.map": "/newsongo/static/css/main.e6c13ad2.css.map",
+    "main.14d5c54d.js.map": "/newsongo/static/js/main.14d5c54d.js.map",
+    "453.912cc188.chunk.js.map": "/newsongo/static/js/453.912cc188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14d5c54d.js"
+  ]
+}
